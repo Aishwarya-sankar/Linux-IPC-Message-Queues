@@ -2,8 +2,7 @@
 Linux IPC-Message Queues
 
 
-Developed By:Aishwarya S
-Reg No:212222100003
+
 
 # AIM:
 To write a C program that receives a message from message queue and display them
@@ -21,8 +20,11 @@ Write the C Program using Linux message queues API
 ### Step 3:
 
 Execute the C Program for the desired output. 
-
 # PROGRAM:
+```
+Developed By:Aishwarya S
+Reg No:212222100003
+```
 
 ## C program that receives a message from message queue and display them
 ```
